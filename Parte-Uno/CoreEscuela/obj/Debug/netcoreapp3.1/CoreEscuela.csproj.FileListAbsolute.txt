@@ -1,0 +1,12 @@
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/bin/Debug/netcoreapp3.1/CoreEscuela.deps.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/bin/Debug/netcoreapp3.1/CoreEscuela.runtimeconfig.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/bin/Debug/netcoreapp3.1/CoreEscuela.runtimeconfig.dev.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/bin/Debug/netcoreapp3.1/CoreEscuela.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/bin/Debug/netcoreapp3.1/CoreEscuela.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.csprojAssemblyReference.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.csproj.CoreCompileInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.AssemblyInfoInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.AssemblyInfo.cs
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/CoreEscuela/obj/Debug/netcoreapp3.1/CoreEscuela.genruntimeconfig.cache

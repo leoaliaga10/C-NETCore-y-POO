@@ -1,0 +1,12 @@
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.deps.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.dev.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csprojAssemblyReference.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csproj.CoreCompileInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfoInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfo.cs
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.genruntimeconfig.cache

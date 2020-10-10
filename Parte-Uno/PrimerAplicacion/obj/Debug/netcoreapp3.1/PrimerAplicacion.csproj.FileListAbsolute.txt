@@ -1,0 +1,12 @@
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/bin/Debug/netcoreapp3.1/PrimerAplicacion.deps.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/bin/Debug/netcoreapp3.1/PrimerAplicacion.runtimeconfig.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/bin/Debug/netcoreapp3.1/PrimerAplicacion.runtimeconfig.dev.json
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/bin/Debug/netcoreapp3.1/PrimerAplicacion.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/bin/Debug/netcoreapp3.1/PrimerAplicacion.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.csprojAssemblyReference.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.csproj.CoreCompileInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.AssemblyInfoInputs.cache
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.AssemblyInfo.cs
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.dll
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.pdb
+/Users/leoncioaliagasaldana/GitHub/NETCore/PrimerAplicacion/obj/Debug/netcoreapp3.1/PrimerAplicacion.genruntimeconfig.cache
